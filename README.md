@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+## Boas vindas ao meu perfil 💙💙
+Meu nome é Eduardo Soares,
+estou estudando na Alura,
+e estou me desenvolvendo na linguagem JavaScript,
+vou utilizar esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
+## Você pode entrar em contato comigo 📫
+alurastartestudante@email.com
 <!--
 **EdwZ3ra/EdwZ3ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
